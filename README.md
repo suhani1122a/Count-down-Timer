@@ -1,3 +1,4 @@
+![Screenshot (10)](https://github.com/user-attachments/assets/a56c0e1c-5b5f-4b7c-9769-babc7712af20)<br>
 This project is a countdown timer for Diwali 2024, created using HTML, CSS, and JavaScript. <br>
 The timer dynamically counts down to the exact date and time of Diwali, showing the remaining days, hours, minutes, and seconds.
 
